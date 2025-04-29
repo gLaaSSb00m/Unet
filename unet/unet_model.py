@@ -1,6 +1,10 @@
 """ Full assembly of the parts to form the complete network """
 
+<<<<<<< HEAD
 from unet.unet_parts import *
+=======
+from .unet_parts import *
+>>>>>>> master
 
 
 class UNet(nn.Module):
