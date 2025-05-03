@@ -7,3 +7,5 @@ checkpoints/
 venv/
 .idea/
 wandb/
+.venv
+segmentation_full_body_mads_dataset_1192_img
